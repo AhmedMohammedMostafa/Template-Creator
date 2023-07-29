@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="UTF-8">
-  <title>🚀 MyStarterCLI - The Awesome CLI Starter Template 🚀</title>
-</head>
-
 <body>
   <h1>🚀 MyStarterCLI - The Awesome CLI Starter Template 🚀</h1>
   <img src="link-to-image" alt="MyStarterCLI" width="300">
