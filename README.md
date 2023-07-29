@@ -3,8 +3,6 @@
 
 <body>
   <h1>🚀 MyStarterCLI - The Awesome CLI Starter Template 🚀</h1>
-  <img src="link-to-image" alt="MyStarterCLI" width="300">
-
   <h2>📜 Description</h2>
   <p>MyStarterCLI is an awesome Command-Line Interface (CLI) tool that helps you generate starter templates for various
     projects. It provides multiple options, including creating a full-stack project with Next.js and Express, setting
